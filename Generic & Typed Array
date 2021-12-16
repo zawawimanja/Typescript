@@ -1,0 +1,8 @@
+//generic  is you can put other types into that array
+let list:Array<number>={1,2,3};
+
+//typed
+let list : number []={1,2,3}
+
+
+
